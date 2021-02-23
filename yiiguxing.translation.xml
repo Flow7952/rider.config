@@ -1,0 +1,23 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Default From Display Name" />
+      <item value="Default From Address" />
+      <item value="Enable Ssl" />
+      <item value="Use Default Credentials" />
+      <item value="true" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1614052747523" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
