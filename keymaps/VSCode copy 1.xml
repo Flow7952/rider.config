@@ -1,4 +1,10 @@
 <keymap version="1" name="VSCode copy 1" parent="VSCode">
+  <action id="$TranslateDocumentationAction">
+    <keyboard-shortcut first-keystroke="shift alt y" />
+  </action>
+  <action id="Editor TranslateDocumentationAction">
+    <keyboard-shortcut first-keystroke="shift alt y" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f8" />
     <keyboard-shortcut first-keystroke="alt e" />
@@ -7,4 +13,8 @@
     <keyboard-shortcut first-keystroke="shift f8" />
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
+  <action id="ShowLiveRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
+  <action id="VcsShowNextChangeMarker" />
 </keymap>
