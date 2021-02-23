@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Append" />
       <item value="Default From Display Name" />
       <item value="Default From Address" />
       <item value="Enable Ssl" />
